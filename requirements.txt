@@ -1,0 +1,7 @@
+Flask>=0.12.2
+Flask-RESTful>=0.3.6
+SQLAlchemy>=1.2.2
+PyMySQL>=0.8.0
+Flask-Cors>=3.0.3
+gunicorn>=19.7.1
+
