@@ -5,7 +5,6 @@ This repository contains remote calling RESTful API of wifi switch server.
 ## Requirements
 ---------------
 
-* redis
 * Flask
 
 See requirements.txt for complete list of requirements.
